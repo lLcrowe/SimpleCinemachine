@@ -7,11 +7,9 @@ MVP 카메라처리
 각 스테이지마다 있는 진입씬에 사용  
 메인메뉴애서 버튼 선택시 해당 위치로 아동하는 기능에 사용  
 
-
-
 [![Video Label](http://img.youtube.com/vi/LsV71J1FiqU/0.jpg)](https://youtu.be/LsV71J1FiqU)
-[![Video Label](http://img.youtube.com/vi/ygB2JprJd7k/0.jpg)](https://youtu.be/ygB2JprJd7k)
-
+[![Video Label](http://img.youtube.com/vi/ygB2JprJd7k/0.jpg)](https://youtu.be/ygB2JprJd7k)  
+[![Video Label](http://img.youtube.com/vi/25pvZrS9cCg/0.jpg)](https://youtu.be/25pvZrS9cCg)  
 
 ### 기능  
 특정오브젝트를 제어하여 특정위치로 이동, 회전하는 기능을 가짐.  
