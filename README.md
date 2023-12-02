@@ -8,6 +8,10 @@ MVP 카메라처리
 메인메뉴애서 버튼 선택시 해당 위치로 아동하는 기능에 사용  
 
 
+<iframe width="956" height="538" src="https://youtu.be/LsV71J1FiqU?si=GMuDIQsMtvm7jtmm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 https://youtu.be/LsV71J1FiqU?si=GMuDIQsMtvm7jtmm   
 https://youtu.be/ygB2JprJd7k?si=TRf6MYtuTK3faC1V    
 
